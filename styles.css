@@ -73,7 +73,7 @@ header p {
 }
 
 .animated-box:hover {
-    transform: rotate(360deg) scale(2.2);
+    transform: rotate(360deg) scale(1.2);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
 }
 
