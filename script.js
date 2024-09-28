@@ -1,7 +1,7 @@
 let lastColorIndex = -1;
 
 function changeBackgroundColor() {
-    const colors = ['#ff6f61', '#6b5b95', '#88b04b', '#f7cac9', '#92a8d1','#FF9700'];
+    const colors = ['#ff6f61', '#6b5b95', '#88b04b', '#f7cac9', '#92a8d1','#FF9700','#000000'];
     let randomColorIndex;
 
     // Ensure the new color is different from the previous one
